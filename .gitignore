@@ -1,0 +1,18 @@
+# Security logs and events
+*.log
+*.jsonl
+
+# Python files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credentials
+.env
+*.pem
+*.key
+
+# Editor files
+.vscode/
+.idea/
